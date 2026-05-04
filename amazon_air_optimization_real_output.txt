@@ -1,0 +1,85 @@
+Solver status: optimal solution found
+Optimal objective value: 91,717.35
+Number of available decision variables: 192
+Number of positive shipment decisions: 66
+Total center demand satisfied: 133,747 tons
+
+Capacity usage
+  CVG: 60,615 / 95,650 tons
+  AFW: 5,954 / 44,350 tons
+  Leipzig inbound: 0 / 85,000 tons
+  Leipzig outbound: 47,965 / 85,000 tons
+  Hyderabad inbound: 0 / 19,000 tons
+  Hyderabad outbound: 19,000 / 19,000 tons
+  San Bernardino inbound: 0 / 36,000 tons
+  San Bernardino outbound: 213 / 36,000 tons
+
+Maximum center-demand residual: 0.00000000 tons
+
+Positive shipment decisions
+  Leipzig         -> Paris                   6,500 tons at 0.50 =   3,250.00
+  Leipzig         -> Cologne                   640 tons at 0.50 =     320.00
+  Leipzig         -> Hanover                   180 tons at 0.50 =      90.00
+  Leipzig         -> Bengaluru               9,100 tons at 1.50 =  13,650.00
+  Hyderabad       -> Coimbatore                570 tons at 0.50 =     285.00
+  Leipzig         -> Delhi                     570 tons at 1.50 =     855.00
+  Hyderabad       -> Delhi                  18,430 tons at 0.50 =   9,215.00
+  Leipzig         -> Mumbai                 14,800 tons at 1.50 =  22,200.00
+  Leipzig         -> Cagliari                   90 tons at 0.50 =      45.00
+  Leipzig         -> Catania                   185 tons at 0.50 =      92.50
+  Leipzig         -> Milan                     800 tons at 0.50 =     400.00
+  Leipzig         -> Rome                    1,700 tons at 0.50 =     850.00
+  Leipzig         -> Katowice                  170 tons at 0.50 =      85.00
+  Leipzig         -> Barcelona               2,800 tons at 0.50 =   1,400.00
+  Leipzig         -> Madrid                  3,700 tons at 0.50 =   1,850.00
+  Leipzig         -> Castle Donington           30 tons at 0.50 =      15.00
+  Leipzig         -> London                  6,700 tons at 0.75 =   5,025.00
+  CVG             -> Mobile                    190 tons at 0.50 =      95.00
+  San Bernardino  -> Anchorage                 175 tons at 0.70 =     122.50
+  San Bernardino  -> Fairbanks                  38 tons at 0.70 =      26.60
+  CVG             -> Phoenix                 2,400 tons at 0.50 =   1,200.00
+  CVG             -> Los Angeles             7,200 tons at 0.50 =   3,600.00
+  CVG             -> Ontario                   100 tons at 0.50 =      50.00
+  CVG             -> Riverside               1,200 tons at 0.50 =     600.00
+  CVG             -> Sacramento              1,100 tons at 0.50 =     550.00
+  CVG             -> San Francisco           1,900 tons at 0.50 =     950.00
+  CVG             -> Stockton                  240 tons at 0.50 =     120.00
+  CVG             -> Denver                  1,500 tons at 0.50 =     750.00
+  CVG             -> Hartford                  540 tons at 0.50 =     270.00
+  CVG             -> Miami                   3,400 tons at 0.50 =   1,700.00
+  CVG             -> Lakeland                  185 tons at 0.50 =      92.50
+  CVG             -> Tampa                   1,600 tons at 0.50 =     800.00
+  CVG             -> Atlanta                 3,000 tons at 0.50 =   1,500.00
+  AFW             -> Honolulu                  500 tons at 0.50 =     250.00
+  AFW             -> Kahului/Maui               16 tons at 0.50 =       8.00
+  AFW             -> Kona                       63 tons at 0.50 =      31.50
+  CVG             -> Chicago                 5,100 tons at 0.50 =   2,550.00
+  CVG             -> Rockford                  172 tons at 0.50 =      86.00
+  CVG             -> Fort Wayne                200 tons at 0.50 =     100.00
+  CVG             -> South Bend                173 tons at 0.50 =      86.50
+  CVG             -> Des Moines                300 tons at 0.50 =     150.00
+  CVG             -> Wichita                   290 tons at 0.50 =     145.00
+  CVG             -> New Orleans               550 tons at 0.50 =     275.00
+  CVG             -> Baltimore               1,300 tons at 0.50 =     650.00
+  CVG             -> Minneapolis             1,700 tons at 0.50 =     850.00
+  CVG             -> Kansas City               975 tons at 0.50 =     487.50
+  CVG             -> St. Louis               1,200 tons at 0.50 =     600.00
+  CVG             -> Omaha                     480 tons at 0.50 =     240.00
+  CVG             -> Manchester                100 tons at 0.50 =      50.00
+  CVG             -> Albuquerque               450 tons at 0.50 =     225.00
+  CVG             -> New York               11,200 tons at 0.50 =   5,600.00
+  CVG             -> Charlotte                 900 tons at 0.50 =     450.00
+  CVG             -> Toledo                    290 tons at 0.50 =     145.00
+  CVG             -> Wilmington                150 tons at 0.50 =      75.00
+  CVG             -> Portland                1,200 tons at 0.50 =     600.00
+  CVG             -> Allentown                 420 tons at 0.50 =     210.00
+  CVG             -> Pittsburgh              1,000 tons at 0.50 =     500.00
+  CVG             -> San Juan                1,100 tons at 0.50 =     550.00
+  CVG             -> Nashville                 650 tons at 0.50 =     325.00
+  AFW             -> Austin                    975 tons at 0.25 =     243.75
+  CVG             -> Dallas                  3,300 tons at 0.50 =   1,650.00
+  AFW             -> Houston                 3,300 tons at 0.25 =     825.00
+  AFW             -> San Antonio             1,100 tons at 0.25 =     275.00
+  CVG             -> Richmond                  600 tons at 0.50 =     300.00
+  CVG             -> Seattle/Tacoma          2,000 tons at 0.50 =   1,000.00
+  CVG             -> Spokane                   260 tons at 0.50 =     130.00
