@@ -1,3 +1,4 @@
+# Final version - verified optimal solution and constraints
 
 from scipy.optimize import linprog
 
